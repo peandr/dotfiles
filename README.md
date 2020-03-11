@@ -1,2 +1,2 @@
-# dotfiles
-My dotfiles for bash, vim, vifm, ranger, tmux
+# Dotfiles-Repo
+My dotfiles for bash, vim (including tex-section), vifm, ranger, tmux ...
